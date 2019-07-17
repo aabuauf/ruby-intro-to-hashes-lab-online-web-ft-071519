@@ -3,7 +3,7 @@ new_hash = {}
 return new_hash
 end
 
-def actor
+def actor(name)
 new_hash[name]="Dwayne The Rock Johnson"
 return new_hash
 end
