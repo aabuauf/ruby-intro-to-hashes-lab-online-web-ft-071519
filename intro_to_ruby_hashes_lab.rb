@@ -4,7 +4,7 @@ return new_hash
 end
 
 def actor(name)
-actor[name]="Dwayne The Rock Johnson"
+actor[:name]="Dwayne The Rock Johnson"
 return actor
 end
 
